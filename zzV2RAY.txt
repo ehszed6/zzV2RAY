@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#vip-jun23-jul23%E2%97%BEupdated+jun23
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#vip-jun23-jul23%E2%97%BEupdated+jun24
 
 
 
