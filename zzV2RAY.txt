@@ -1,5 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jun26
 
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&security=reality&encryption=none&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&fp=chrome&spx=%2Fstorage&type=grpc&serviceName=&sni=mega.io&sid=07a9a22b#BEST
+
+
+
 vmess://eyJhZGQiOiI5NS4xNzkuMTY2LjE5MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZTAzYTgzMi1kNmJiLTQ1YTMtOTEyMS1mN2JkNmYxODk0NjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODMiLCJwcyI6IkVIUyBWSVAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vless://4c58afde-50b4-4cbe-be1a-f70646c0545c@104.31.16.197:80?path=%2Fcheckout&security=none&encryption=none&host=SPOrt.fLuTTErS.site&type=ws#EHS+VIP+2
