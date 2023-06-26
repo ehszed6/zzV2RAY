@@ -7,3 +7,5 @@ vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&securit
 
 
 vless://a271123e-dac0-4e4d-e636-618d152beda4@95.216.184.66:76?security=none&encryption=none&host=Xbox.com&headerType=http&type=tcp#EHS+VIP+1
+
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&security=reality&encryption=none&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&fp=chrome&spx=%2Fstorage&type=grpc&serviceName=&sni=mega.io&sid=07a9a22b#EHS+VIP+2
