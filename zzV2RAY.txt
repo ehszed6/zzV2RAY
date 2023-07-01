@@ -3,3 +3,4 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajja
 vless://205ee967-508c-4bcc-fa6c-667a6671cd67@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+1
 
 
+vless://dc048da3-fa1c-4277-afb0-49966ed1d296@95.216.142.190:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn-fastly-v6.deb.debian.org#EHS+VIP+2
