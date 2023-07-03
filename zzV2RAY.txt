@@ -1,6 +1,5 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul3
 
-vless://205ee967-508c-4bcc-fa6c-667a6671cd67@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+1
+vless://ItsDgNmt@84.54.51.96:443?mode=gun&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=grpc&serviceName=&sni=www.zula.ir#EHS+VIP+1
 
-
-vless://dc048da3-fa1c-4277-afb0-49966ed1d296@95.216.142.190:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn-fastly-v6.deb.debian.org#EHS+VIP+2
+vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@13.53.170.229:443?security=reality&encryption=none&pbk=WeolSTpslOc_NqO4B8Xb1qiMY9s5F8Mg2qPr-QgIrTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#EHS+VIP+2
