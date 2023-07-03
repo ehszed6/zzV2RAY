@@ -6,3 +6,5 @@ vless://25411de1-f84c-67ab-24d0-fcc3c77bba02@5.105.185.145:443?security=reality&
 vless://25411de1-f84c-67ab-24d0-fcc3c77bba02@5.105.185.149:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=BgpUZ3S6u9O6ydhjEzdqGiCtU1xdu0zH5XJse0_rJHs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pcmag.com&sid=e4cb670f90d4c014#EHS+VIP+2
 
 vless://25411de1-f84c-67ab-24d0-fcc3c77bba02@5.105.185.149:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=BgpUZ3S6u9O6ydhjEzdqGiCtU1xdu0zH5XJse0_rJHs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pcmag.com&sid=e4cb670f90d4c014#EHS+VIP+3
+
+vless://93f55e41-508c-46c1-fefb-53176cf334d5@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+2
