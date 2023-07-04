@@ -8,3 +8,19 @@ vless://25411de1-f84c-67ab-24d0-fcc3c77bba02@5.105.185.149:443?security=reality&
 vless://25411de1-f84c-67ab-24d0-fcc3c77bba02@5.105.185.149:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=BgpUZ3S6u9O6ydhjEzdqGiCtU1xdu0zH5XJse0_rJHs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pcmag.com&sid=e4cb670f90d4c014#EHS+VIP+3
 
 vless://93f55e41-508c-46c1-fefb-53176cf334d5@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+2
+
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=ba81b6c7#EHS+VIP+1
+
+vless://93f55e41-508c-46c1-fefb-53176cf334d5@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+2
+
+vless://Legenderyking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=31d72fd6#EHS+VIP+3
+
+
+vless://ItsLegenderyking@91.231.182.109:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=60e89edc#EHS+VIP+4+
+
+
+vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=5233ad85#EHS+VIP+5
+
+vless://384568ca-e127-4e3a-9fee-81df7efed2a6@65.109.203.17:2092?mode=gun&security=reality&encryption=none&pbk=Efs3ZjEqkIKr_oOmLJIIs5umLa2vEm9IqxvLOSWPLiw&fp=chrome&type=grpc&serviceName=Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn,Telegram:@zigzagvppn&sni=ftp.debian.org#EHS+VIP+6
+
+vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@[::ffff:681f:10c5]:80?path=%2F&security=none&encryption=none&host=FuRnItURE.MAHdAviAt.Uk&type=ws#EHS+VIP+7
