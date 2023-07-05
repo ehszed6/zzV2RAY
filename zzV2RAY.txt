@@ -2,8 +2,4 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajja
 
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@[::ffff:681f:10c5]:80?path=%2F&security=none&encryption=none&host=FuRnItURE.MAHdAviAt.Uk&type=ws#EHS+VIP+1
 
-vless://561679b9-3878-4ac7-9cbd-43980af74ad9@5.230.54.21:443?security=reality&encryption=none&pbk=L7mjxLFDZeWj2MyQfyhu8q3UtD3LuW0bgSvIaiQ0CQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=62ab3a333640336e#EHS+VIP+7
-
-vless://7825a09b-8321-41e0-86b5-2603f318f313@185.219.221.39:8443?security=reality&encryption=none&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=e6#EHS+VIP+8
-
-vless://120eea52-9b58-49a1-8233-34b490d8ca61@116.203.4.53:443?mode=gun&security=reality&encryption=none&pbk=Iv9L_lSwteINpiXXWaRTspyvBoIkT1EeANnL5EM7gHI&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.zula.ir&sid=a8#EHS+VIP+6
+vless://561679b9-3878-4ac7-9cbd-43980af74ad9@5.230.54.21:443?security=reality&encryption=none&pbk=L7mjxLFDZeWj2MyQfyhu8q3UtD3LuW0bgSvIaiQ0CQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=62ab3a333640336e#EHS+VIP+4
