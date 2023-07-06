@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul5
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul6
 
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@[::ffff:681f:10c5]:80?path=%2F&security=none&encryption=none&host=FuRnItURE.MAHdAviAt.Uk&type=ws#EHS+VIP+1
 
