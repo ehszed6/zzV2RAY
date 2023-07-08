@@ -1,16 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul7
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul8
 
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@[::ffff:681f:10c5]:80?path=%2F&security=none&encryption=none&host=FuRnItURE.MAHdAviAt.Uk&type=ws#EHS+VIP+1
 
-vless://edaa02f4-0e16-4d79-b361-d0f2bef4be83@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+2
+vless://d1e6e764-3ae2-41a6-99da-77446346cbfa@38.180.15.115:443?security=reality&encryption=none&pbk=P_VTLeLSwwxhadeByVFwF8lJFFA8VWpv2siU0w4XM3o&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=c7c2a684#EHS+VIP+2
 
+vless://8e42d2f2-3964-445d-dc71-51f614b49521@46.101.194.64:2070?mode=gun&security=reality&encryption=none&pbk=_i27t1Iha8fQiwzi9nL0oo3lwU_VDFAw695x7lLglTA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=telewebion.com&sid=0c#EHS+VIP+3
 
-vless://561679b9-3878-4ac7-9cbd-43980af74ad9@5.230.54.21:443?security=reality&encryption=none&pbk=L7mjxLFDZeWj2MyQfyhu8q3UtD3LuW0bgSvIaiQ0CQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=62ab3a333640336e#EHS+VIP+3
-
-vless://edaa02f4-0e16-4d79-b361-d0f2bef4be83@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+1
-
-
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=277f9674#EHS+VIP+2
-
-vless://561679b9-3878-4ac7-9cbd-43980af74ad9@5.230.54.21:443?security=reality&encryption=none&pbk=L7mjxLFDZeWj2MyQfyhu8q3UtD3LuW0bgSvIaiQ0CQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=62ab3a333640336e#EHS+VIP+3
-
+vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.57.113:443?security=reality&encryption=none&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&sid=ce#EHS+VIP+4
