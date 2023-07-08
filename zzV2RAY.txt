@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul8 7pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul9
 
 
 vless://b44bd7e6-b0fd-4395-b4d7-39b8ff41e206@172.232.44.187:443?security=reality&encryption=none&pbk=UoFttoFzhVfO8Kg1ELY8gD0mL4pREgKz0l5H6d6naUU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eset.com&sid=585b29ca#EHS+VIP+1
@@ -9,3 +9,4 @@ vless://e832bf0a-66ce-4bb6-97f1-ad1c663543f6@49.13.5.118:58642?security=none&enc
 
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&spx=%2F&type=http&sni=ubuntu.com&sid=61138e86#EHS+VIP+4
 
+vless://dfd29f47-ce13-4076-b46a-e95771ea8718@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+5
