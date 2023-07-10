@@ -1,13 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul10
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul10 2pm
 
 
-vless://4f90f470-ada3-4566-8964-839237f16f2f@81.19.141.3:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=Bzt5yNhsGA6x7AfMbFA9V7u9cEXGZmwhE24M0Kiv1nM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=8df3b224b4a79308#EHS+VIP+1
+vmess://eyJhZGQiOiI5NS4xNzkuMjQ1LjEyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIxZDY1MzNjMC1iYjU3LTQ4MDEtZThjNC1hZjYzZjIxZTc2YzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1ODU4MCIsInBzIjoiRUhTIFZJUCAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIzMS40Ny40NS4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2JlZDcwOGItOWZjZi00ZjAzLTkxMjUtMzI3M2Q3YWVjMWMzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJFSFMgVklQIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxOTkuMjQ3LjE3LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxNGRjODI1LTliM2QtNDU5OS05OGYyLTk1NGI0N2Y1ZDBlNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkVIUyBWSVAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtdG54MDIwYmV6YW4uaW5kaWEwMDIuc2tpbiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
+vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&spx=%2F&type=http&sni=ubuntu.com&sid=61138e86#EHS+VIP+3
 
-vless://aa6703ae-2432-4d8f-9987-4efdf5815150@5.75.214.49:443?security=reality&encryption=none&alpn=h2&pbk=W5jAswnd_wfiaDerY2yy3zIyNUbWoks2-tmkAFOE7VA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=d77fdb611c4c#EHS+VIP+3
+trojan://telegram-id-privatevpns@52.59.212.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EHS+VIP+4
 
-vless://a345d750-fd98-4d54-848b-228b2994683b@172.232.33.206:443?mode=multi&security=reality&encryption=none&pbk=BQ-6pg9E5QFgO4slY8xO-CaR8zUxqoAOYf_BcKLhAF0&fp=firefox&type=grpc&serviceName=&sni=ftp.debian.org&sid=72b51ee3#EHS+VIP+4
+vmess://eyJhZGQiOiIyMDkuMjUwLjIzNi45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZGFkMzRiZS05MmEwLTRmMjYtYTk4MS1hZTA0NDJkNmY1ZGMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDg3IiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoibXRueDAyNWJlemFuLmluZGlhMDAyLnNraW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
-vless://8b443361-008d-4367-8087-b319dde99729@162.55.40.189:27132?security=reality&encryption=none&pbk=s1tK00meg2-c7yeaM9NwWsBNzL23vjQ0cOV-wJ26w2Y&host=speedtest.net&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=f5620505#EHS+VIP+5
