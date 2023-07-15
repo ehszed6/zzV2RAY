@@ -1,7 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul12
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul15
+
+vless://16c7584c-c468-4fb1-ec4e-2e24c3abe38f@49.13.51.195:31218?security=reality&encryption=none&pbk=h5BBdGbhfEzXg62hnjix7tNUC9gCc9WerXvqgUaYyG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=a7097bd9#EHS+VIP+2
 
 
-
+vmess://eyJhZGQiOiIxMTYuMjAzLjQuMTM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXZhcmNkbi5jb20iLCJpZCI6IjU5NTYwY2RhLTIyMzUtNDA2OS05MjIyLWQ0MzgyOTlmMWZmZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NDY0IiwicHMiOiJFSFMgVklQIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxOTkuMjQ3LjE3LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxNGRjODI1LTliM2QtNDU5OS05OGYyLTk1NGI0N2Y1ZDBlNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkVIUyBWSVAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtdG54MDIwYmV6YW4uaW5kaWEwMDIuc2tpbiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
