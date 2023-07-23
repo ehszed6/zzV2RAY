@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#sajjad-jun23-jul23%E2%97%BEupdated+jul22
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%8CJUN24%E2%9D%8Csajjad-jun23-jul23%E2%97%BEupdated+jul23
 
 vless://4366f95c-37a6-42f2-bbe3-125893bb66d4@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+1
 
