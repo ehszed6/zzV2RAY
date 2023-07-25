@@ -1,7 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+JUL24
-
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul25
 
 
 vless://30376d08-eb0d-450d-9280-1a8dce3018f5@185.231.181.11:47749?security=none&encryption=none&host=aionet.ir&headerType=http&type=tcp#EHS+VIP+1
 
-vless://a310b1ba-5ae7-47dd-c4a9-b5275055fd4d@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+2
+vmess://eyJhZGQiOiIxNDEuOTUuMTYwLjIzNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NTAwMjY0Zi04MzYyLTRjMzAtYTk3Zi02NTk0ZDg0NDVlMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkVIUyBWSVAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxNTYuMjQ1LjguMTI4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzY2E5MTJkYS02YWMyLTQxOGYtYjljZi00NWI2ZjY5NDU3OWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4MTIzIiwicHMiOiJFSFMgVklQIDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vless://4c793956-4803-4815-9f5c-708211619981@65.109.241.91:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+4
+
+vless://c388fc23-a7cf-45a5-b30b-1add44094501@65.109.192.234:443?mode=gun&security=reality&encryption=none&pbk=3Xoo69la76Cu5u_LoQLjL-ANSyurFpEzkgTT_3Z00SM&fp=randomized&type=grpc&serviceName=&sni=www.speedtest.net&sid=2e5c0ae9#EHS+VIP+5
+
