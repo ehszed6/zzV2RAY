@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul26
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul27
 
 
 vless://30376d08-eb0d-450d-9280-1a8dce3018f5@185.231.181.11:47749?security=none&encryption=none&host=aionet.ir&headerType=http&type=tcp#EHS+VIP+1
