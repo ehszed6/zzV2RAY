@@ -1,15 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul29
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul29 4pm
+
+
+vless://df9a2004-75a3-4fe7-a10f-bf4ab635b6e1@185.231.181.11:11111?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+1
 
 
 
-vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&encryption=none&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=flutter.dev&sid=42908ace#EHS+VIP+1
 
-vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&encryption=none&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=flutter.dev&sid=42908ace#EHS+VIP+2
 
-vless://7d839fc5-f438-4ea6-a314-c9f8bd7076a9@185.226.182.226:2024?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=flutter.dev#EHS+VIP+3
+vmess://eyJhZGQiOiIxODUuMjEyLjYzLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI3MTdmNGUwNi03ZTcyLTRiNDItYjJhYy01ZDNhMTIwNzIwYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MDgwIiwicHMiOiJFSFMgVklQIDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vless://2c9a2502-996e-420c-bcf5-46c29dca59f8@[::ffff:2d09:bc69]:2096?security=reality&encryption=none&pbk=FnCK_gf4RQF9vsAJ-JJ01QDiZgtFnuzn91KjuZ9dqyQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=2bf17609#EHS+VIP+4
+vmess://eyJhZGQiOiI3OC40Ny4yNi4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiI0NjVhMTRiYS1jOGI0LTRiMjItOGQyOC03ZjE2MTVjYzM3ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxOTguMjQ0LjIzMS43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6ImJjYjc4NTI4LWVlNGYtNDYyMi04ZDgxLWNmYjFlYWUwYmU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiI1MS4xNS43NS4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGRmNjVmNjItOTlkOS00MmQxLWE0YjktYTM1YjM3YjI2ODczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkVIUyBWSVAgNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
