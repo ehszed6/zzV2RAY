@@ -1,14 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul29 4pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul30
 
 
-vless://df9a2004-75a3-4fe7-a10f-bf4ab635b6e1@185.231.181.11:11111?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+1
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMTc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkVIUyBWSVAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMTg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkVIUyBWSVAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
+vless://2f0ab281-ffca-4ccf-c9cc-15a0096a7d00@146.190.131.166:443?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#EHS+VIP+3
 
+vless://474572a9-ae30-4d5a-90f9-2ad1e75e89db@94.23.165.26:2083?security=reality&encryption=none&alpn=h2&pbk=3-uEJw40j8pGN3xUbLRj5Xt4VbEDBMfpxQywih0dQHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=b21af3d0ce#EHS+VIP+4
 
+vless://7d839fc5-f438-4ea6-a314-c9f8bd7076a9@185.226.182.226:2024?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=flutter.dev#EHS+VIP+5
 
-vmess://eyJhZGQiOiIxODUuMjEyLjYzLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI3MTdmNGUwNi03ZTcyLTRiNDItYjJhYy01ZDNhMTIwNzIwYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MDgwIiwicHMiOiJFSFMgVklQIDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI3OC40Ny4yNi4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiI0NjVhMTRiYS1jOGI0LTRiMjItOGQyOC03ZjE2MTVjYzM3ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-
+vless://09ceeba4-bcf6-472f-b9ef-12b60de9fc0c@159.100.29.60:13755?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+6
