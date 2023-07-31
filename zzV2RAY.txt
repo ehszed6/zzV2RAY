@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul30
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul3
+
+vless://ab8d1650-6cf7-430b-8bf2-6166645445e6@141.94.169.93:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EHS+VIP+1
+
+vless://7748808d-fc2f-4b58-a83e-fbfda3ba912b@91.107.246.182:52237?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EHS+VIP+2
 
 
 vmess://eyJhZGQiOiI4OS4xMTYuMzguMTc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkVIUyBWSVAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
