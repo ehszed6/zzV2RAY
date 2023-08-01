@@ -1,18 +1,15 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+Jul3
-
-vless://ab8d1650-6cf7-430b-8bf2-6166645445e6@141.94.169.93:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EHS+VIP+1
-
-vless://7748808d-fc2f-4b58-a83e-fbfda3ba912b@91.107.246.182:52237?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EHS+VIP+2
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug1
 
 
-vmess://eyJhZGQiOiI4OS4xMTYuMzguMTc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkVIUyBWSVAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://2b04ef9e-ed8f-4145-ac97-4d2af9769b6e@109.169.2.185:12209?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EHS+VIP+1
 
-vmess://eyJhZGQiOiI4OS4xMTYuMzguMTg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkVIUyBWSVAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://89e82b97-5b5c-469f-c0e7-73aea44df3f5@172.232.55.177:32112?mode=gun&security=reality&encryption=none&pbk=CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w&fp=chrome&type=grpc&serviceName=nowtimetoserviceforfree&sni=www.discordapp.com&sid=a4c0894c#EHS+VIP+2
 
-vless://2f0ab281-ffca-4ccf-c9cc-15a0096a7d00@146.190.131.166:443?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#EHS+VIP+3
+vless://fbd960ec-88dd-4929-a33b-6c50ac96451d@104.31.16.197:80?path=%2F&security=none&encryption=none&host=tEaM.micRosofts.DownLOad&type=ws#EHS+VIP+3
 
-vless://474572a9-ae30-4d5a-90f9-2ad1e75e89db@94.23.165.26:2083?security=reality&encryption=none&alpn=h2&pbk=3-uEJw40j8pGN3xUbLRj5Xt4VbEDBMfpxQywih0dQHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=b21af3d0ce#EHS+VIP+4
+trojan://telegram-id-privatevpns@3.68.96.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EHS+VIP+4
 
-vless://7d839fc5-f438-4ea6-a314-c9f8bd7076a9@185.226.182.226:2024?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=flutter.dev#EHS+VIP+5
 
-vless://09ceeba4-bcf6-472f-b9ef-12b60de9fc0c@159.100.29.60:13755?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+6
+vless://5a59276b-9e0c-4e9f-9636-40e538607a51@78.46.158.75:45337?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+5
+
+vless://f2e0fdf4-2ca7-4853-af54-66acd46e1b39@46.101.102.8:2053?security=none&encryption=none&host=alibaba%E2%80%8C.com&headerType=http&type=tcp#EHS+VIP+6
