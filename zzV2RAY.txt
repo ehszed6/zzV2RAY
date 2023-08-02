@@ -1,15 +1,15 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug2
 
 
-vless://2b04ef9e-ed8f-4145-ac97-4d2af9769b6e@109.169.2.185:12209?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EHS+VIP+1
 
-vless://89e82b97-5b5c-469f-c0e7-73aea44df3f5@172.232.55.177:32112?mode=gun&security=reality&encryption=none&pbk=CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w&fp=chrome&type=grpc&serviceName=nowtimetoserviceforfree&sni=www.discordapp.com&sid=a4c0894c#EHS+VIP+2
+vless://6b807b64-b67b-4e48-92ca-657d065c930e@37.252.15.82:11675?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EHS+VIP+1
 
-vless://fbd960ec-88dd-4929-a33b-6c50ac96451d@104.31.16.197:80?path=%2F&security=none&encryption=none&host=tEaM.micRosofts.DownLOad&type=ws#EHS+VIP+3
+vless://2f2b0658-2c8b-4b69-9573-8d09b3db262d@37.252.15.82:2096?security=reality&encryption=none&pbk=B3-LtnYeL0nZZlKwbeMFycIX9d15Re_9yCBNgkH0ZTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=6342086f#EHS+VIP+2
 
-trojan://telegram-id-privatevpns@3.68.96.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EHS+VIP+4
+vless://5091b9e8-f4fc-4dff-952e-6841d5d3b531@91.107.189.98:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=discordapp.com#EHS+VIP+3
+
+vmess://eyJhZGQiOiIxNDEuOTQuMjIyLjIwOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiYTc5ZTAzYWQtODRhNy00MWY2LWJjZTktZTRjNTMxODBjNTA3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjIwODIiLCJwcyI6IkVIUyBWSVAgNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://5091b9e8-f4fc-4dff-952e-6841d5d3b531@91.107.189.98:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#EHS+VIP+5
 
 
-vless://5a59276b-9e0c-4e9f-9636-40e538607a51@78.46.158.75:45337?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+5
-
-vless://f2e0fdf4-2ca7-4853-af54-66acd46e1b39@46.101.102.8:2053?security=none&encryption=none&host=alibaba%E2%80%8C.com&headerType=http&type=tcp#EHS+VIP+6
