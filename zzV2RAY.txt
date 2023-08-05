@@ -1,15 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug6
 
 
 vless://45cbf8cf-00f0-4333-b67e-285038eca19e@172.232.61.135:443?security=reality&encryption=none&pbk=p6PVFYoKs6tKY5D0gn6yd4Dm1FNPaQfzDteUgyc3MlA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.esri.com&sid=0437006d#EHS+VIP
 
-vless://3df276c2-cfa5-4aae-d57a-3efeda1a1858@116.203.145.173:80?security=none&encryption=none&headerType=none&type=tcp#EHS+VIP
+vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?path=%2F&security=none&encryption=none&host=jdidbdbdkvglhbk.%E7%94%B7%E8%B6%B3%E5%AD%90%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%832.tech&type=ws#EHS+VIP
 
-vless://45cbf8cf-00f0-4333-b67e-285038eca19e@172.232.61.135:443?security=reality&encryption=none&pbk=p6PVFYoKs6tKY5D0gn6yd4Dm1FNPaQfzDteUgyc3MlA&headerType=none&fp=firefox&spx=%2Fen-us%2Fhome&type=tcp&flow=xtls-rprx-vision&sni=www.esri.com&sid=0437006d#EHS+VIP
+vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?path=%2Fwhoiam&security=none&encryption=none&host=helP.ShOkr.de&type=ws#EHS+VIP
 
-vmess://eyJhZGQiOiI4OS4xMTYuMzkuMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzMmU0OTUzOS1mNTY5LTQwM2QtYjRiNi1hODk3OGMwNDBkNWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDU2IiwicHMiOiJFSFMgVklQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vless://fbd960ec-88dd-4929-a33b-6c50ac96451d@104.31.16.197:80?path=%2F&security=none&encryption=none&host=tEaM.micRosofts.DownLOad&type=ws#EHS+VIP
-
-vless://b631aa64-7c93-4497-93fb-896e9891074b@212.71.253.169:443?path=%2Fvless&security=tls&encryption=none&host=212.71.253.169&fp=safari&type=ws&sni=speedtest.net#EHS+VIP
-
+vless://748225c0-32e2-11ee-b9a7-1239d0255272@136.175.8.100:8080?path=%2Fvlws&security=none&encryption=none&type=ws#EHS+VIP
