@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug6
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug7
+
+
+vless://d382a251-0314-431f-a213-fcd2a65e6668@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+5
+
+vless://b401f526-c7a4-4953-d722-e3398e6bc725@[2a01:4f8:c012:d11a::1]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+6
 
 
 vless://45cbf8cf-00f0-4333-b67e-285038eca19e@172.232.61.135:443?security=reality&encryption=none&pbk=p6PVFYoKs6tKY5D0gn6yd4Dm1FNPaQfzDteUgyc3MlA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.esri.com&sid=0437006d#EHS+VIP
