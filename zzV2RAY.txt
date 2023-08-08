@@ -1,15 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug7
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug8
 
 
-vless://d382a251-0314-431f-a213-fcd2a65e6668@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+5
+vless://828191fd-0ee8-4968-a655-482952a44011@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+2
 
-vless://b401f526-c7a4-4953-d722-e3398e6bc725@[2a01:4f8:c012:d11a::1]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+6
-
-
-vless://45cbf8cf-00f0-4333-b67e-285038eca19e@172.232.61.135:443?security=reality&encryption=none&pbk=p6PVFYoKs6tKY5D0gn6yd4Dm1FNPaQfzDteUgyc3MlA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.esri.com&sid=0437006d#EHS+VIP
-
-vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?path=%2F&security=none&encryption=none&host=jdidbdbdkvglhbk.%E7%94%B7%E8%B6%B3%E5%AD%90%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%832.tech&type=ws#EHS+VIP
-
-vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?path=%2Fwhoiam&security=none&encryption=none&host=helP.ShOkr.de&type=ws#EHS+VIP
-
-vless://748225c0-32e2-11ee-b9a7-1239d0255272@136.175.8.100:8080?path=%2Fvlws&security=none&encryption=none&type=ws#EHS+VIP
+vless://743e81e4-7b64-4849-d79c-4b8de18306a8@[2a01:4f8:c012:d11a::1]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+1
