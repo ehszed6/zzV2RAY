@@ -1,6 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug8
 
+vless://371fa469-6468-47c5-889e-f3dcbd351717@5.42.77.255:10050?security=reality&encryption=none&pbk=lGQjLgfXTH0mYUGrB_NkN5ILcbVWAIsc7bsIMJrUJmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=84d8c6165cf7ad0d#EHS+VIP
 
-vless://828191fd-0ee8-4968-a655-482952a44011@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+2
+vless://5aff4feb-9a3c-4596-bc5d-726db9e6714e@89.23.103.237:443?security=reality&encryption=none&pbk=GiBvrshULJHl0-Poa0ik0M6LZiTN5pdjO6uPRjqfaCQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=f3a75e1485c08198#EHS+VIP
 
-vless://743e81e4-7b64-4849-d79c-4b8de18306a8@[2a01:4f8:c012:d11a::1]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+1
+vless://6b883063-d1f6-4e33-9458-d4cc55ce1bbf@77.91.84.45:10050?security=reality&encryption=none&pbk=ZABHQpDqQAlOJI3J1eckO-L9uyhEDlnJ61sHGhJIrFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=12861d13c6ddc070#EHS+VIP
+
+vless://a9e724fe-a2ca-4c87-9971-ae1fd97498eb@5.42.77.255:2082?security=reality&encryption=none&pbk=lGQjLgfXTH0mYUGrB_NkN5ILcbVWAIsc7bsIMJrUJmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=account.zula.ir&sid=84d8c6165cf7ad0d#EHS+VIP
