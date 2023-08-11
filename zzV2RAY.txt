@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug10
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug11
+
+
+vless://fb9b3521-b6ee-41c2-b59c-91ee314dddfd@49.13.60.5:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=cdn.discordapp.com#EHS+VIP+1
+
+vless://fb9b3521-b6ee-41c2-b59c-91ee314dddfd@49.13.60.5:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#EHS+VIP+2
 
 vmess://eyJhZGQiOiIxOTkuMjQ3LjMuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNlMDNhODMyLWQ2YmItNDVhMy05MTIxLWY3YmQ2ZjE4OTQ2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MyIsInBzIjoiRUhTIFZJUCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
