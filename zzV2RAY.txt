@@ -1,12 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug11 9pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug12
 
 
-vmess://eyJhZGQiOiI5NS4yMTcuMjcuMTY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIyOTg0ZGJkNi01YWY4LTQ3YWYtZTcyMi04NmNmNTI0ZDBjNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxOTU4NSIsInBzIjoiRUhTIFZJUCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI5MS4xMDcuMjIxLjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlY2Y3N2EzLTIxM2EtNDE0MC1kOTI4LWZkNGFkNjRiMDUxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQzMyIsInBzIjoiRUhTIFZJUCAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vless://a0514d9b-d109-47fd-b173-1e7f83268f21@66.235.200.78:2082?path=%2Fgraphql&security=none&encryption=none&host=vNLu2Zx.kallepache.store&type=ws#EHS+VIP
+vless://ea1958d5-9998-4175-9ddc-f94df1d143e6@[0000:0000:0000:0000:0000:ffff:310d:4137]:443?security=reality&encryption=none&pbk=uce0-ovMRU9yso1DEXV1xaHE5mBV2oTnXMjSv2Oe9hA&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fking&type=tcp&sni=ftp.debian.org&sid=cb9689bb#EHS+VIP+2
 
-vmess://eyJhZGQiOiI5MS4xMDcuMjIxLjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlY2Y3N2EzLTIxM2EtNDE0MC1kOTI4LWZkNGFkNjRiMDUxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQzMyIsInBzIjoiRUhTIFZJUCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://facc7942-29f0-4da1-933a-384eee151233@49.13.7.250:443?security=reality&encryption=none&pbk=7L4e--0Tmx44f2kCEzUDjMZ1u1tLNR_NnkldkybmB2w&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir#EHS+VIP+3
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.183:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=fragment.iraniancp.click&fp=randomized&type=ws&sni=fragment.iraniancp.click#EHS+VIP
+vless://0e570ff0-0f9b-4edc-a998-0316cc3c1c89@108.61.208.154:2096?security=reality&encryption=none&alpn=h2,http/1.1&pbk=RWGzI58xt_v4oM2zkb7FpWg8dw4bSHDU1bi9a-QtGRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=5fe770ea625c187c#EHS+VIP+4
 
-vless://thend@128.140.91.234:443?mode=gun&security=reality&encryption=none&pbk=PT8QlpG_r0IH3XHQyT3-BzweJ_1afcXuW_j_ITlvVRA&fp=chrome&type=grpc&serviceName=&sni=game-center.ir#EHS+VIP+3
+vmess://eyJhZGQiOiIxMDQuMjQuMTQ1LjQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyb2NrLmJsYW5rdS5tZSIsImlkIjoiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzODg5IiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA1Iiwic2N5IjoiYXV0byIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
