@@ -1,5 +1,5 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug14
-
+vless://d1b58805-00b1-4d3e-9bb1-1f2ff71240da@128.140.114.115:2087?path=%2Fxbox.com&security=reality&encryption=none&pbk=4D8HMBkGdshhPr2Fnlh4jZOEhqFGtV-9sNUuD08LchE&host=speedtest.net&fp=chrome&spx=%2F&type=http&sni=www.speedtest.net&sid=da4e2d54#EHS+VIP+0
 
 
 
