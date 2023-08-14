@@ -1,4 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug12 10pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug14
+
+
+
+
+vless://a6932a31-9053-4691-95c2-cc2e4b7d0685@5.42.77.255:8880?security=reality&encryption=none&pbk=RkHg8NpdVybYH9mL9eMQzKzgOQjwKqe44QkegoD2f18&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=65743dd1a898ebdb#EHS+VIP
+
+vless://5cb4159a-50f6-44f7-be95-22e381318695@5.42.77.255:10050?security=reality&encryption=none&pbk=RkHg8NpdVybYH9mL9eMQzKzgOQjwKqe44QkegoD2f18&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=65743dd1a898ebdb#EHS+VIP
+
+vless://f2c8ecb1-28ba-4465-fa33-ef869a60ba79@77.105.146.64:443?security=reality&encryption=none&pbk=K01pE63JsmQWsSA-1HSrm_Dt6zyg3uQZii6CHwlYA2M&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=13307f05#EHS+VIP
 
 
 
