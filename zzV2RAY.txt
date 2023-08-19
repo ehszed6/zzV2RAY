@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug16
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1jul23-aug23---UPDATED+aug19
+
+vless://cebca4e0-bd2e-4c08-a52c-6b1ac2f16a73@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP
 
 vless://74c9ccc3-985b-4aba-ac4a-2b8596ba2623@[2a01:4f8:c012:5287::1]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0 
 
