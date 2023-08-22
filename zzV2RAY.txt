@@ -2,10 +2,7 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9
 
 
 
-vless://e4be4b99-9050-401d-8686-d9422c2d83a1@49.13.73.80:2096?mode=gun&security=reality&encryption=none&pbk=boT2egBXRsLymTiYu13aFA-h2iLLkMkvxMWjyl0aG0c&fp=firefox&spx=%2F&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=www.zula.ir&sid=fdda4a9f#EHS+VIP
 
-
-vless://a1eeebdc-1403-46c3-8f5f-8b776d018198@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=i.ShV2ray.cfd#EHS+VIP
 
 vless://37af6d1b-0e56-447c-9362-c38fd303e5a8@[::ffff:310c:649a]:443?security=reality&encryption=none&pbk=xhaWvW_WkXsGPX-NE4_4q1OM8iUs3kH0F_y7CkzSrBw&headerType=none&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=4d826efc#EHS+VIP+00
 
