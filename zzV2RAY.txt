@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A13-sep7-oct7---UPDATED+sep9
 
+vless://13bf9e53-846a-4861-d4ae-20d868cdceab@[::ffff:5b6b:dda1]:443?security=reality&encryption=none&pbk=AvGzlLyP3Af1pOdGvsuL-OSybEJ8-IY8DlJEhGFXfgk&headerType=none&fp=chrome&spx=%2Fb%2FVideo-Games%2F139973%2Fbn_320034&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com&sid=cf5fab55#EHS+VIP
+
+
 vmess://eyJhZGQiOiIzMS4xNzIuODMuMjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJmNmI4YmE0LWJlNWQtNGVmNS04MzljLTJjNjA4MjQzNjNmNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM4OTA4IiwicHMiOiJFSFMgVklQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vless://9042c32e-e4d2-4e3f-81ed-693c36ffea44@[::ffff:5b6b:dda1]:443?security=reality&encryption=none&pbk=AvGzlLyP3Af1pOdGvsuL-OSybEJ8-IY8DlJEhGFXfgk&headerType=none&fp=chrome&spx=%2Fb%2FVideo-Games%2F139973%2Fbn_320034&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com&sid=cf5fab55#EHS+VIP
