@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A13-sep7-oct7---UPDATED+sep9
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A13-sep7-oct7---UPDATED+sep14
+
+
+vless://bb0bbd32-1c1e-41d2-889a-d3ff1c58c92b@5.161.217.77:443?security=reality&encryption=none&pbk=YHnASUUS5g4h1HFoQs3siZnhRshW7USVASdbCwCbKC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=6ba85179e30d4fc2#EHS+VIP+vip 
 
 vless://13bf9e53-846a-4861-d4ae-20d868cdceab@[::ffff:5b6b:dda1]:443?security=reality&encryption=none&pbk=AvGzlLyP3Af1pOdGvsuL-OSybEJ8-IY8DlJEhGFXfgk&headerType=none&fp=chrome&spx=%2Fb%2FVideo-Games%2F139973%2Fbn_320034&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com&sid=cf5fab55#EHS+VIP
 
