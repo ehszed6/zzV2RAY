@@ -1,5 +1,6 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A13-sep7-oct7---UPDATED+sep24 11pm
 
+vmess://eyJhZGQiOiI5NS4xNjQuMzQuMjA0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI5NWI0MjRhMi1hZTkyLTQ5ZTgtODM3Yy05OTdiYTVkNTZhN2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk2IiwicHMiOiJFSFMgVklQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#EHS+VIP
 
